@@ -1,4 +1,4 @@
-# ChatPDF
+# ChatwithPDF
 Chatbot LLM that uses custom vector database extracted from your own PDF files. 
 
 Hugging Face API is used. LLM is the Falcon 7B parameter model. 
